@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="TipoDivida_Array">
+        <item>Cartão de Crédito</item>
+        <item>Crédito Pessoal</item>
+        <item>Cheque Especial</item>
+        <item>Financiamento</item>
+        <item>Finan. imobiliário</item>
+        <item>Finan. de automóvel</item>
+    </string-array>
+    <string-array name="Quant_pag_Array">
+        <item>X2 Vez</item>
+        <item>X3 Vez</item>
+        <item>X4 Vez</item>
+        <item>X5 Vez</item>
+        <item>X6 Vez</item>
+        <item>X7 Vez</item>
+        <item>X8 Vez</item>
+        <item>X9 Vez</item>
+        <item>X10 Vez</item>
+        <item>X11 Vez</item>
+        <item>X12 Vez</item>
+        <item>X13 Vez</item>
+        <item>X14 Vez</item>
+        <item>X15 Vez</item>
+        <item>X16 Vez</item>
+        <item>X17 Vez</item>
+        <item>X18 Vez</item>
+        <item>X19 Vez</item>
+        <item>X20 Vez</item>
+        <item>X21 Vez</item>
+        <item>X22 Vez</item>
+        <item>X23 Vez</item>
+        <item>X24 Vez</item>
+    </string-array>
+    <string name="Bemloko">Bemloko</string>
+</resources>
